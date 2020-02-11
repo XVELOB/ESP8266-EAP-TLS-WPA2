@@ -1,1 +1,1 @@
-# ESP8266-EAP-TLS-WPA2
+# WAP2 Enterprise (EAP-TLS) with ESP8266
